@@ -23,12 +23,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jugaz/vuex-bases.git"
+    "url": "git+https://github.com/jugaz/06-bases-vuex.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jugaz/vuex-bases/issues"
+    "url": "https://github.com/jugaz/06-bases-vuex/issues"
   },
-  "homepage": "https://github.com/jugaz/vuex-bases#readme"
+  "homepage": "https://github.com/jugaz/06-bases-vuex#readme"
 }
