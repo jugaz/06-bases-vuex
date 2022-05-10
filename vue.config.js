@@ -3,5 +3,5 @@ module.exports = defineConfig({
   transpileDependencies: true,
   outputDir: 'docs',
   assetsDir: '',
-  publicPath: '/vuex-bases/'
+  publicPath: '/06-bases-vuex/'
 })
